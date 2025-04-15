@@ -4,8 +4,8 @@
 
 
 # 💫 About Me:
-- 👨‍🎓 I'm a sophomore at the Computer Science Department, IIT Jodhpur.
-- 🌱 I’m currently learning Spring Boot.
+- 👨‍🎓 I'm a sophomore in AIDS Branch, IIT Jodhpur.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me: prakhars2558@gmail.com or b23cm1056@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
 
