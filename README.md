@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-- 👨‍🎓 I'm a sophomore in AIDS Branch, IIT Jodhpur.
+- 👨‍🎓 I'm a junior in AIDS Branch, IIT Jodhpur.
 - 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me: prakhars2558@gmail.com or b23cm1056@iitj.ac.in
 - 👯 I’m looking to collaborate on open-source projects.
