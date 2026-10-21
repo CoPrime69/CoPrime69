@@ -56,6 +56,47 @@ Native Windows tray app in **C++20 · Win32 · COM**. Offline, sends nothing any
 
 ---
 
+
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,dart,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,mongodb,prisma&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,pytorch,sklearn&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,nginx,githubactions,vercel,linux,git,cmake&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CoPrime69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoPrime69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CoPrime69&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=CoPrime69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  </picture>
+</p>
+
+<sub>Top languages only count public code; they say nothing about experience or skill level.</sub>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
+</p>
+
 ## 🧩 Projects
 
 
@@ -105,42 +146,3 @@ Full-stack Minesweeper platform featuring accounts, difficulty levels, custom bo
 
 
 ---
-
-## 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,dart,html,css&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,mongodb,prisma&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,pytorch,sklearn&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,nginx,githubactions,vercel,linux,git,cmake&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CoPrime69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoPrime69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CoPrime69&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=CoPrime69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-  </picture>
-</p>
-
-<sub>Top languages only count public code; they say nothing about experience or skill level.</sub>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
-</p>
