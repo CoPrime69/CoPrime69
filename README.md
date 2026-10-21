@@ -121,7 +121,7 @@ Improving FastViT step by step: a strong baseline, then CLIP knowledge distillat
 </tr>
 </table>
 
-<details>
+
 
 ---
 
