@@ -58,6 +58,7 @@ Native Windows tray app in **C++20 · Win32 · COM**. Offline, sends nothing any
 
 ## 🧩 Projects
 
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -70,33 +71,13 @@ Social network analyzer rebuilt as four C++20 microservices behind an nginx gate
 <a href="https://github.com/CoPrime69/socialgraph-engine">💻 Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://coprime69.vercel.app"><img src="https://api.microlink.io/?url=https://coprime69.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
-<h3><a href="https://coprime69.vercel.app">Portfolio: Strata Descent</a></h3>
-A Minecraft-themed personal site: scroll down through six strata from sky to bedrock, with a hotbar for navigation, an F3 depth readout and a 3D skin avatar.
+<a href="https://github.com/CoPrime69/DL_Project_FastViT"><img src="https://opengraph.githubassets.com/1/CoPrime69/DL_Project_FastViT" width="100%" /></a>
+<h3><a href="https://github.com/CoPrime69/DL_Project_FastViT">FastViT on CIFAR-10</a></h3>
+Improving FastViT step by step: a strong baseline, then CLIP knowledge distillation, then hierarchical attention with modified downsampling.
 <br/><br/>
-<code>Next.js 15</code> <code>React 19</code> <code>Tailwind v4</code> <code>GSAP</code> <code>WebGL</code>
+<code>PyTorch</code> <code>Vision Transformers</code> <code>CLIP</code> <code>Knowledge Distillation</code>
 <br/><br/>
-<a href="https://coprime69.vercel.app">🌐 Live</a> · <a href="https://github.com/CoPrime69/portfolio">💻 Code</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://public-sentiment-analysis.vercel.app"><img src="https://api.microlink.io/?url=https://public-sentiment-analysis.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
-<h3><a href="https://public-sentiment-analysis.vercel.app">Public Sentiment Analysis</a></h3>
-Tracks public opinion on governance policies from Twitter: keyword-based collection, transformer sentiment models, trend dashboards and word clouds.
-<br/><br/>
-<code>Next.js</code> <code>MongoDB</code> <code>Prisma</code> <code>Hugging Face</code> <code>Recharts</code>
-<br/><br/>
-<a href="https://public-sentiment-analysis.vercel.app">🌐 Live</a> · <a href="https://github.com/CoPrime69/Public-Sentiment-Analysis">💻 Code</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://minesweeper-tawny-rho.vercel.app"><img src="https://api.microlink.io/?url=https://minesweeper-tawny-rho.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
-<h3><a href="https://minesweeper-tawny-rho.vercel.app">Minesweeper Platform</a></h3>
-Full-stack take on the classic: accounts, difficulty levels and custom boards, leaderboards, personal stats and an admin dashboard.
-<br/><br/>
-<code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Auth</code>
-<br/><br/>
-<a href="https://minesweeper-tawny-rho.vercel.app">🌐 Live</a> · <a href="https://github.com/CoPrime69/Minesweeper">💻 Code</a>
+<a href="https://github.com/CoPrime69/DL_Project_FastViT">💻 Code</a>
 </td>
 </tr>
 <tr>
@@ -110,13 +91,13 @@ Recruitment platform with AI resume parsing, RAG-based candidate evaluation and 
 <a href="https://github.com/CoPrime69/candidate-application-form">💻 Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/CoPrime69/DL_Project_FastViT"><img src="https://opengraph.githubassets.com/1/CoPrime69/DL_Project_FastViT" width="100%" /></a>
-<h3><a href="https://github.com/CoPrime69/DL_Project_FastViT">FastViT on CIFAR-10</a></h3>
-Improving FastViT step by step: a strong baseline, then CLIP knowledge distillation, then hierarchical attention with modified downsampling.
+<a href="https://minesweeper-tawny-rho.vercel.app"><img src="https://api.microlink.io/?url=https://minesweeper-tawny-rho.vercel.app&amp;screenshot=true&amp;meta=false&amp;embed=screenshot.url" width="100%" /></a>
+<h3><a href="https://minesweeper-tawny-rho.vercel.app">Mindseeker</a></h3>
+Full-stack Minesweeper platform featuring accounts, difficulty levels, custom boards, leaderboards, personal statistics and an admin dashboard.
 <br/><br/>
-<code>PyTorch</code> <code>Vision Transformers</code> <code>CLIP</code> <code>KD</code>
+<code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Authentication</code>
 <br/><br/>
-<a href="https://github.com/CoPrime69/DL_Project_FastViT">💻 Code</a>
+<a href="https://minesweeper-tawny-rho.vercel.app">🌐 Live</a> · <a href="https://github.com/CoPrime69/Minesweeper">💻 Code</a>
 </td>
 </tr>
 </table>
