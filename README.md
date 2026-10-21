@@ -1,15 +1,16 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prakhar%20Srivastava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%C2%B7%20AI%20Systems%20%C2%B7%20Agentic%20Engineering&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prakhar%20Srivastava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%C2%B7%20AI%2FML%20%C2%B7%20Systems&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/CoPrime69">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Backend+engineer+%40+Sentio+Mind+%F0%9F%A7%A0;AI+%26+Data+Science+%40+IIT+Jodhpur+%F0%9F%8E%93;FastAPI+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+GCP;Shipping+LLM+products+with+agentic+workflows+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Backend+engineer+%40+Sentio+Mind;AI+%26+Data+Science+%40+IIT+Jodhpur;Building+ShiftDrop+%E2%80%94+drag%2C+Shift%2C+drop;C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://coprime69.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/prakhar-srivastava-b539172ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:prakhars2558@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/prakhar.sri696"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -23,60 +24,115 @@
 ```python
 class Prakhar:
     education = "B.Tech, Artificial Intelligence & Data Science @ IIT Jodhpur (2023 – 2027)"
-    role      = "Backend Engineer @ Sentio Mind — a mental-wellbeing app"
-    owns      = ["game & content engine", "billing & entitlements", "notifications & pacing",
-                 "safety gate & risk detection", "shared infra: workers, events, migrations"]
-    building  = ["LLM companions with real guardrails", "RAG + memory pipelines",
-                 "multi-agent dev workflows with Claude Code"]
-    open_to   = ["open source", "backend / AI-infra collabs", "hackathons"]
+    work      = "Backend Engineer @ Sentio Mind"
+    building  = "ShiftDrop — convert, compress & edit files on Windows with one drag"
+    interests = ["backend systems", "AI/ML", "native apps", "distributed services"]
+    open_to   = ["open source", "collabs", "hackathons"]
     reach_me  = ["prakhars2558@gmail.com", "b23cm1056@iitj.ac.in"]
 ```
 
-- ⚙️ I like the unglamorous parts that make a product work: event buses, cron workers, migrations, payment flows, and safety checks that sit in front of every free-text box.
-- 🤖 Lately I spend a lot of time on **AI-native engineering**: planning, building and auditing features with agent teams, and writing the prompts and guardrails that keep them honest.
-- 📈 Before that: the MERN / Next.js stack, which I still reach for on the frontend.
+---
+
+## 🚧 Currently building
+
+<table>
+<tr>
+<td width="55%">
+<a href="https://github.com/CoPrime69/ShiftDrop"><img src="https://opengraph.githubassets.com/1/CoPrime69/ShiftDrop" width="100%" /></a>
+</td>
+<td>
+
+### [ShiftDrop](https://github.com/CoPrime69/ShiftDrop)
+Convert and edit files without opening an app. Start dragging a file, press **Shift**, and a wheel of actions opens under the cursor. Drop it on a slice: a photo becomes WebP, a video shrinks under 25 MB, two PDFs become one.
+
+Native Windows tray app in **C++20 · Win32 · COM**. Offline, sends nothing anywhere.
+
+<a href="https://github.com/CoPrime69/ShiftDrop/releases/latest"><img src="https://img.shields.io/github/v/release/CoPrime69/ShiftDrop?style=for-the-badge&color=38BDF8&label=Download" /></a>
+<a href="https://github.com/CoPrime69/ShiftDrop"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/CoPrime69/socialgraph-engine"><img src="https://opengraph.githubassets.com/1/CoPrime69/socialgraph-engine" width="100%" /></a>
+<h3><a href="https://github.com/CoPrime69/socialgraph-engine">SocialGraph Engine</a></h3>
+Social network analyzer rebuilt as four C++20 microservices behind an nginx gateway, with Postgres per service, Redis Streams and a React front end, running on real Stack Overflow data: influencers, communities, recommendations, shortest paths.
+<br/><br/>
+<code>C++20</code> <code>PostgreSQL</code> <code>Redis</code> <code>React</code> <code>Docker</code>
+<br/><br/>
+<a href="https://github.com/CoPrime69/socialgraph-engine">💻 Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://coprime69.vercel.app"><img src="https://api.microlink.io/?url=https://coprime69.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<h3><a href="https://coprime69.vercel.app">Portfolio: Strata Descent</a></h3>
+A Minecraft-themed personal site: scroll down through six strata from sky to bedrock, with a hotbar for navigation, an F3 depth readout and a 3D skin avatar.
+<br/><br/>
+<code>Next.js 15</code> <code>React 19</code> <code>Tailwind v4</code> <code>GSAP</code> <code>WebGL</code>
+<br/><br/>
+<a href="https://coprime69.vercel.app">🌐 Live</a> · <a href="https://github.com/CoPrime69/portfolio">💻 Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://public-sentiment-analysis.vercel.app"><img src="https://api.microlink.io/?url=https://public-sentiment-analysis.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<h3><a href="https://public-sentiment-analysis.vercel.app">Public Sentiment Analysis</a></h3>
+Tracks public opinion on governance policies from Twitter: keyword-based collection, transformer sentiment models, trend dashboards and word clouds.
+<br/><br/>
+<code>Next.js</code> <code>MongoDB</code> <code>Prisma</code> <code>Hugging Face</code> <code>Recharts</code>
+<br/><br/>
+<a href="https://public-sentiment-analysis.vercel.app">🌐 Live</a> · <a href="https://github.com/CoPrime69/Public-Sentiment-Analysis">💻 Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://minesweeper-tawny-rho.vercel.app"><img src="https://api.microlink.io/?url=https://minesweeper-tawny-rho.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<h3><a href="https://minesweeper-tawny-rho.vercel.app">Minesweeper Platform</a></h3>
+Full-stack take on the classic: accounts, difficulty levels and custom boards, leaderboards, personal stats and an admin dashboard.
+<br/><br/>
+<code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Auth</code>
+<br/><br/>
+<a href="https://minesweeper-tawny-rho.vercel.app">🌐 Live</a> · <a href="https://github.com/CoPrime69/Minesweeper">💻 Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/CoPrime69/candidate-application-form"><img src="https://opengraph.githubassets.com/1/CoPrime69/candidate-application-form" width="100%" /></a>
+<h3><a href="https://github.com/CoPrime69/candidate-application-form">AI Candidate Manager</a></h3>
+Recruitment platform with AI resume parsing, RAG-based candidate evaluation and vector search to match candidates with jobs.
+<br/><br/>
+<code>Next.js</code> <code>Pinecone</code> <code>Gemini</code> <code>RAG</code>
+<br/><br/>
+<a href="https://github.com/CoPrime69/candidate-application-form">💻 Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/CoPrime69/DL_Project_FastViT"><img src="https://opengraph.githubassets.com/1/CoPrime69/DL_Project_FastViT" width="100%" /></a>
+<h3><a href="https://github.com/CoPrime69/DL_Project_FastViT">FastViT on CIFAR-10</a></h3>
+Improving FastViT step by step: a strong baseline, then CLIP knowledge distillation, then hierarchical attention with modified downsampling.
+<br/><br/>
+<code>PyTorch</code> <code>Vision Transformers</code> <code>CLIP</code> <code>KD</code>
+<br/><br/>
+<a href="https://github.com/CoPrime69/DL_Project_FastViT">💻 Code</a>
+</td>
+</tr>
+</table>
+
+<details>
 
 ---
 
 ## 🛠️ Tech stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,dart,html,css&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,dart,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,mongodb,prisma&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,pytorch,sklearn&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,nginx,githubactions,vercel,linux,git,cmake&theme=dark" />
 </p>
-
-**Backend & data**
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,mongodb,prisma&theme=dark" />
-</p>
-
-**Frontend & mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark" />
-</p>
-
-**AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/RAG%20%26%20LLM%20Ops-111827?style=for-the-badge&logo=openai&logoColor=white" height="48" />
-</p>
-
-**Cloud, DevOps & tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,vercel,linux,git,github,postman,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 What I'm working on
-
-| | |
-|---|---|
-| 🧠 **Sentio Mind, Phase 2** | Turning quizzes into a levelled game engine, a paced notification layer, avatar progression, and the safety gate every new surface calls |
-| 💬 **Senti, the AI companion** | Auditing and rebuilding the chatbot into a genuine companion: better answers, clear safety gates, fewer tokens per turn |
-| 🎙️ **Voice signals** | Vocal stress & emotion models, used as gentle prompts rather than scores |
-| 🏗️ **Agentic workflows** | Planner → builder → auditor agent teams that ship reviewable, one-commit-per-phase work |
 
 ---
 
@@ -92,20 +148,17 @@ class Prakhar:
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CoPrime69&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-trophies.vercel.app/?username=CoPrime69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
-<details>
-<summary>🏆 Trophies</summary>
-<br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoPrime69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  </picture>
 </p>
-</details>
 
 <sub>Top languages only count public code; they say nothing about experience or skill level.</sub>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
