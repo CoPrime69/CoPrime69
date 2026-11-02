@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/CoPrime69">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Backend+engineer+%40+Sentio+Mind;AI+%26+Data+Science+%40+IIT+Jodhpur;Building+ShiftDrop+%E2%80%94+drag%2C+Shift%2C+drop;C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Backend+engineer+%40+Sentio+Mind;AI+%26+Data+Science+%40+IIT+Jodhpur;Made+ShiftDrop+%E2%80%94+drag%2C+Shift%2C+drop;C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,8 @@
 class Prakhar:
     education = "B.Tech, Artificial Intelligence & Data Science @ IIT Jodhpur (2023 – 2027)"
     work      = "Backend Engineer @ Sentio Mind"
-    building  = "ShiftDrop — convert, compress & edit files on Windows with one drag"
+    shipped   = "ShiftDrop — convert, compress & edit files on Windows with one drag"
+    building  = "Cay — a local personal agent for Windows with a dynamic-island UI"
     interests = ["backend systems", "AI/ML", "native apps", "distributed services"]
     open_to   = ["open source", "collabs", "hackathons"]
     reach_me  = ["prakhars2558@gmail.com", "b23cm1056@iitj.ac.in"]
@@ -33,21 +34,24 @@ class Prakhar:
 
 ---
 
-## 🚧 Currently building
+## 🚀 Latest release
 
 <table>
 <tr>
 <td width="55%">
-<a href="https://github.com/CoPrime69/ShiftDrop"><img src="https://opengraph.githubassets.com/1/CoPrime69/ShiftDrop" width="100%" /></a>
+<a href="https://getshiftdrop.vercel.app"><img src="https://getshiftdrop.vercel.app/assets/img/og.png" width="100%" /></a>
 </td>
 <td>
 
-### [ShiftDrop](https://github.com/CoPrime69/ShiftDrop)
-Convert and edit files without opening an app. Start dragging a file, press **Shift**, and a wheel of actions opens under the cursor. Drop it on a slice: a photo becomes WebP, a video shrinks under 25 MB, two PDFs become one.
+### [ShiftDrop](https://getshiftdrop.vercel.app)
+Out now, free for Windows 10 and 11. Start dragging a file, press **Shift**, and a wheel of file tools opens under your cursor. Drop it on a slice: a photo becomes WebP, a video shrinks under 25 MB, two PDFs become one. The result is saved next to the original, which stays as it was.
 
-Native Windows tray app in **C++20 · Win32 · COM**. Offline, sends nothing anywhere.
+There are editors for video, audio, photos and PDFs too, plus text from screenshots straight to the clipboard and Share-safe to strip location and camera details before you send a file. Every run can be undone.
 
-<a href="https://github.com/CoPrime69/ShiftDrop/releases/latest"><img src="https://img.shields.io/github/v/release/CoPrime69/ShiftDrop?style=for-the-badge&color=38BDF8&label=Download" /></a>
+Native tray app in **C++20 · Win32 · COM**. Works offline, no account, no telemetry. MIT licensed.
+
+<a href="https://getshiftdrop.vercel.app/#download"><img src="https://img.shields.io/github/v/release/CoPrime69/ShiftDrop?style=for-the-badge&color=38BDF8&label=Download" /></a>
+<a href="https://getshiftdrop.vercel.app"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/CoPrime69/ShiftDrop"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
 
 </td>
@@ -56,7 +60,28 @@ Native Windows tray app in **C++20 · Win32 · COM**. Offline, sends nothing any
 
 ---
 
+## 🚧 Currently building
 
+<table>
+<tr>
+<td width="55%">
+<a href="https://github.com/CoPrime69/cay"><img src="https://opengraph.githubassets.com/1/CoPrime69/cay" width="100%" /></a>
+</td>
+<td>
+
+### [Cay](https://github.com/CoPrime69/cay)
+A personal agent for your laptop that runs locally. Press a hotkey, a small island drops in at the top of the screen, and you type or say what you want done: make a project folder, zip it, switch displays, launch a game. It runs on your own PC and learns your habits there.
+
+Native Windows app in **Rust · C++ · Win32 · Direct2D**. Windows first, not released yet.
+
+<a href="https://github.com/CoPrime69/cay"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+<img src="https://img.shields.io/badge/Status-In%20progress-38BDF8?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech stack
 
@@ -69,36 +94,7 @@ Native Windows tray app in **C++20 · Win32 · COM**. Offline, sends nothing any
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CoPrime69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoPrime69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CoPrime69&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=CoPrime69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-  </picture>
-</p>
-
-<sub>Top languages only count public code; they say nothing about experience or skill level.</sub>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
-</p>
-
 ## 🧩 Projects
-
 
 <table>
 <tr>
@@ -143,6 +139,32 @@ Full-stack Minesweeper platform featuring accounts, difficulty levels, custom bo
 </tr>
 </table>
 
-
-
 ---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CoPrime69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoPrime69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CoPrime69&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=CoPrime69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CoPrime69/CoPrime69/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  </picture>
+</p>
+
+<sub>Top languages only count public code; they say nothing about experience or skill level.</sub>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
+</p>
